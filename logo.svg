@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.95 70.01">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700');</style>
+    <style>
+      .cls-1 {
+        fill: #606161;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 48px;
+      }
+
+      .cls-4 {
+        fill: #606060;
+      }
+
+      .cls-5 {
+        fill: #426db4;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 40.92)"><tspan class="cls-2" x="0" y="0">plan</tspan><tspan class="cls-4" x="111.69" y="0">-</tspan><tspan class="cls-5" x="139.53" y="0">todo</tspan><tspan class="cls-1" x="252.76" y="0">.it</tspan></text>
+</svg>
