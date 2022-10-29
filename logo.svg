@@ -13,6 +13,7 @@
 
       .cls-3 {
         font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
         font-size: 48px;
       }
 
